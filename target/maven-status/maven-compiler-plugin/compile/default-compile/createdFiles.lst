@@ -1,0 +1,11 @@
+mall/Mypage.class
+mall/MypageApplication.class
+mall/Ordered.class
+mall/DeliveryCancelled.class
+mall/AbstractEvent.class
+mall/config/kafka/KafkaProcessor.class
+mall/AbstractEvent$1.class
+mall/Shipped.class
+mall/MypageRepository.class
+mall/PolicyHandler.class
+mall/MypageViewHandler.class
